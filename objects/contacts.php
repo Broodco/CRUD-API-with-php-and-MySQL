@@ -113,7 +113,7 @@
             return false;
         }
         // Search of a term in the table and read rows having it
-        function search(){
+        function search($keywords){
             // Search query
             $query = "SELECT * FROM " . $this->table_name . " 
             WHERE username LIKE ? OR email LIKE ? OR city LIKE ? OR country LIKE ? OR job LIKE ?;";
