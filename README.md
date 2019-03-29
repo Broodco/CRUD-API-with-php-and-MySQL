@@ -2,7 +2,7 @@
 
 ## What's this repository about?
 
-Three steps : 
+This Repository contains my first php CRUD API and is part of a bigger project :
 1. Create a Restful CRUD API with PHP and mySQL
 2. Create a Single Page Web App with Vue.js
 3. Use the API to communicate between the front-end and the back-end
